@@ -1,0 +1,21 @@
+PODS:
+  - AWSCore (2.5.10)
+  - AWSS3 (2.5.10):
+    - AWSCore (= 2.5.10)
+  - ELCImagePickerController (0.2.0)
+  - JTSImageViewController (1.5.1)
+
+DEPENDENCIES:
+  - AWSS3 (~> 2.5.5)
+  - ELCImagePickerController
+  - JTSImageViewController
+
+SPEC CHECKSUMS:
+  AWSCore: 490c988f6af48a10ea113ff06c53a1ef72a3534b
+  AWSS3: cd25080951a7637668d4f33393fe24bcb04dfac7
+  ELCImagePickerController: b1b7084434a7d49f2cfc916bde1f3ba353d38de9
+  JTSImageViewController: 1f8ce1cc93dab0d0af8e53badeea7528560cfec9
+
+PODFILE CHECKSUM: a80d4e9d43dbfffe9da50fdf50a8c1d714d7abcf
+
+COCOAPODS: 1.3.1
