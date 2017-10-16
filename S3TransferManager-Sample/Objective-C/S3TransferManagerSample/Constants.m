@@ -17,4 +17,4 @@
 
 #warning To run this sample correctly, you must set an appropriate constants.
 
-NSString *const S3BucketName = @"microcube-luckdeal-test";
+NSString *const S3BucketName = @"*****";
